@@ -1,0 +1,788 @@
+/* top */
+.top{
+    display: flex;
+}
+.searchtext{
+    height: 25px;
+    width: 600px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.gplogo{
+    height: 80px;
+    width: 200px;
+}
+.Searchiconblue{
+    height: 24px;
+    width: 60px;
+    margin-top: 20px;
+}
+.Googleapps{
+    height: 20px;
+    width: 20px;
+    margin-top: 20px;
+    margin-left: 350px;
+}
+.Avatarlogo{
+    height: 50px;
+    width: 50px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.nav{
+    display: flex;
+}
+.one{
+    background-color: rgb(0, 121, 0);
+    height: 50px;
+    width: 235px;
+}
+.menuicon{
+    height: 20px;
+    width: 20px;
+    display: flex;
+    position: absolute;
+    top: 95px;
+    left: 45px;
+    color: white;
+}
+.apps{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.6em;
+    display: flex;
+    position: absolute;
+    top: 90px;
+    left: 80px;
+    font-weight: lighter;
+}
+.two{
+    height: 50px;
+    width: 100%;
+    background-color: white;
+}
+.dropdown{
+    display: flex;
+    position: absolute;
+    left: 220px;
+    height: 50px;
+    border: none;
+}
+.three{
+    display: flex;
+    position: absolute;
+    left: 330px;
+    height: 50px;
+    width: 100px;
+    background-color: white;
+}
+.home{
+    font-size: 1.3em;
+    color: black;
+    font-family: sans-serif;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.four{
+    display: flex;
+    position: absolute;
+    left: 430px;
+    height: 50px;
+    width: 110px;
+    background-color: white;
+}
+p.chart{
+    font-size: 1.2em;
+    color: black;
+    font-family: sans-serif;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.five{
+    display: flex;
+    position: absolute;
+    left: 540px;
+    height: 50px;
+    width: 120px;
+    background-color: white;
+}
+p.release{
+    font-size: 1.2em;
+    color: black;
+    font-family: sans-serif;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.help{
+    height: 40px;
+    width: 10px;
+    display: flex;
+    position: absolute;
+    left: 1200px;
+    top: 80px;
+}
+.helpicon{
+    height: 20px;
+    width: 20px;
+}
+.setting{
+    height: 40px;
+    width: 40px;
+    display: flex;
+    position: absolute;
+    left: 1270px;
+    top: 80px;
+}
+.settingicon{
+    height: 20px;
+    width: 20px;
+}
+/* left */
+.leftone{
+    height: 200px;
+    width: 197px;
+    background-color: rgb(223, 223, 223);
+    display: flex;
+    position: absolute;
+    top: 130px;
+    box-shadow: 2px 2px 2px 2px rgb(209, 209, 209);
+}
+.myapp{
+    font-family: sans-serif;
+    font-size: 1.3em;
+    color: black;
+    height: 40px;
+    width: 150px;
+    display: flex;
+    position: absolute;
+    top: 10px;
+    left: 50px;
+}
+.shop{
+    font-family: sans-serif;
+    font-size: 1.3em;
+    color: rgb(0, 121, 0);
+    height: 40px;
+    width: 140px;
+    display: flex;
+    position: absolute;
+    top: 40px;
+    left: 50px;
+    border-bottom: 1px solid gray;
+}
+.game{
+    font-family: sans-serif;
+    font-size: 1.1em;
+    color: black;
+    height: 40px;
+    width: 150px;
+    display: flex;
+    position: absolute;
+    top: 100px;
+    left: 50px;
+}
+.kid{
+    font-family: sans-serif;
+    font-size: 1.1em;
+    color: black;
+    height: 40px;
+    width: 150px;
+    display: flex;
+    position: absolute;
+    top: 130px;
+    left: 50px;
+}
+.editor{
+    font-family: sans-serif;
+    font-size: 1.1em;
+    color: black;
+    height: 40px;
+    width: 150px;
+    display: flex;
+    position: absolute;
+    top: 160px;
+    left: 50px;
+}
+.lefttwo{    
+        height: 230px;
+        width: 197px;
+        background-color: rgb(214, 214, 214);
+        display: flex;
+        position: absolute;
+        top: 330px;
+        border-top: 1px solid gray;
+        box-shadow: 2px 2px 2px 2px rgb(209, 209, 209);
+}
+.aa{
+    font-family: sans-serif;
+    font-size: 1em;
+    color: black;
+    display: flex;
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    font-weight: bold;
+}
+.ab{
+    font-family: sans-serif;
+    font-size: 1em;
+    color: black;
+    display: flex;
+    position: absolute;
+    top: 40px;
+    left: 20px;
+    font-weight: bold;
+}
+.ac{
+    font-family: sans-serif;
+    font-size: 1em;
+    color: black;
+    display: flex;
+    position: absolute;
+    top: 70px;
+    left: 20px;
+    font-weight: bold;
+}
+.ad{
+    font-family: sans-serif;
+    font-size: 1em;
+    color: black;
+    display: flex;
+    position: absolute;
+    top: 100px;
+    left: 20px;
+    font-weight: bold;
+}
+.ae{
+    font-family: sans-serif;
+    font-size: 1em;
+    color: black;
+    display: flex;
+    position: absolute;
+    top: 130px;
+    left: 20px;
+    font-weight: bold;
+}
+.af{
+    font-family: sans-serif;
+    font-size: 1em;
+    color: black;
+    display: flex;
+    position: absolute;
+    top: 160px;
+    left: 20px;
+    font-weight: bold;
+}
+.ag{
+    font-family: sans-serif;
+    font-size: 1em;
+    color: black;
+    display: flex;
+    position: absolute;
+    top: 190px;
+    left: 20px;
+    font-weight: bold;
+}
+/* center */
+.main{
+    height: 1000px;
+    width: 700px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    position: absolute;
+    left: 220px;
+    top: 170px;
+    box-shadow: 2px 2px 2px 2px rgb(209, 209, 209);
+}
+.fbicon{
+    height: 280px;
+    width: 250px;
+    display: flex;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    
+}
+.fb{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.5em;
+    display: flex;
+    position: absolute;
+    top: 20px;
+    left: 250px;
+}
+.meta{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.9em;
+    font-weight: bold;
+    display: flex;
+    position: absolute;
+    top: 80px;
+    left: 250px;
+    color: darkgreen;
+}
+.icon{
+    height: 20px;
+    width: 20px;
+    display: flex;
+    position: absolute;
+    top: 110px;
+    left: 250px;
+}
+.bstarone{
+    height: 20px;
+    width: 20px;
+    display: flex;
+    position: absolute;
+    top: 80px;
+    left: 500px;
+}
+.bstartwo{
+    height: 20px;
+    width: 20px;
+    display: flex;
+    position: absolute;
+    top: 80px;
+    left: 520px;
+}
+.bstarthree{
+    height: 20px;
+    width: 20px;
+    display: flex;
+    position: absolute;
+    top: 80px;
+    left: 540px;
+}
+.bstarfour{
+    height: 20px;
+    width: 20px;
+    display: flex;
+    position: absolute;
+    top: 80px;
+    left: 560px;
+}
+.wstar{
+    height: 16px;
+    width: 15px;
+    display: flex;
+    position: absolute;
+    top: 82px;
+    left: 580px;
+}
+.insbutton{
+    height: 40px;
+    width: 100px;
+    display: flex;
+    position: absolute;
+    top: 180px;
+    left: 590px;
+}
+.contain{
+    font-size: 0.9em;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    position: absolute;
+    top: 160px;
+    left: 250px;
+}
+.bookmark{
+    height: 20px;
+    width: 20px;
+    display: flex;
+    position: absolute;
+    top: 200px;
+    left: 250px;
+}
+.add{
+    font-size: 0.9em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: darkgreen;
+    display: flex;
+    position: absolute;
+    top: 200px;
+    left: 280px;
+}
+.users{
+    font-size: 0.9em;
+    font-family: sans-serif;
+    font-weight: bold;
+    display: flex;
+    position: absolute;
+    top: 83px;
+    left: 600px;
+}
+.iconone{
+    height: 250px;
+    width: 150px;
+    display: flex;
+    position: absolute;
+    top: 270px;
+    left: 50px;
+}
+.icontwo{
+    height: 250px;
+    width: 150px;
+    display: flex;
+    position: absolute;
+    top: 270px;
+    left: 210px;
+}
+.iconthree{
+    height: 250px;
+    width: 150px;
+    display: flex;
+    position: absolute;
+    top: 270px;
+    left: 370px;
+}
+.iconfour{
+    height: 250px;
+    width: 150px;
+    display: flex;
+    position: absolute;
+    top: 270px;
+    left: 530px;
+}
+/* right */
+.similar{
+    font-size: 1.3em;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    position: absolute;
+    top: 220px;
+    left: 980px;
+}
+.smbutton{
+    display: flex;
+    position: absolute;
+    top: 215px;
+    left: 1220px;
+    height: 30px;
+}
+.otherapp{
+    background-color: rgb(250, 248, 248);
+    height: 160px;
+    width: 330px;
+    display: flex;
+    position: absolute;
+    top: 280px;
+    left: 980px;
+    box-shadow: 2px 2px 2px 2px rgb(148, 147, 147);
+}
+.messengericon{
+    height: 150px;
+    width: 140px;
+    display: flex;
+    position: absolute;
+    top: 5px;
+}
+.namem{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    display: flex;
+    position: absolute;
+    top: 10px;
+    left: 180px;
+}
+.mpm{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    display: flex;
+    position: absolute;
+    top: 35px;
+    left: 180px;
+}
+.infom{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.9em;
+    display: flex;
+    position: absolute;
+    top: 70px;
+    left: 180px;
+}
+.bstarfive{
+    height: 20px;
+    width: 20px;
+    display: flex;
+    position: absolute;
+    top: 130px;
+    left: 180px;
+}
+.bstarsix{
+    height: 20px;
+    width: 20px;
+    display: flex;
+    position: absolute;
+    top: 130px;
+    left: 200px;
+}
+.bstarseven{
+    height: 20px;
+    width: 20px;
+    display: flex;
+    position: absolute;
+    top: 130px;
+    left: 220px;
+}
+.bstareight{
+    height: 20px;
+    width: 20px;
+    display: flex;
+    position: absolute;
+    top: 130px;
+    left: 240px;
+}
+.wstartwo{
+    height: 17px;
+    width: 17px;
+    display: flex;
+    position: absolute;
+    top: 132px;
+    left: 260px;
+}
+.otherapps{
+    background-color: rgb(250, 248, 248);
+    height: 160px;
+    width: 330px;
+    display: flex;
+    position: absolute;
+    top: 460px;
+    left: 980px;
+    box-shadow: 2px 2px 2px 2px rgb(148, 147, 147);
+}
+.bstarnine{
+    height: 20px;
+    width: 20px;
+    display: flex;
+    position: absolute;
+    top: 130px;
+    left: 180px;
+}
+.bstarten{
+    height: 20px;
+    width: 20px;
+    display: flex;
+    position: absolute;
+    top: 130px;
+    left: 200px;
+}
+.bstareleven{
+    height: 20px;
+    width: 20px;
+    display: flex;
+    position: absolute;
+    top: 130px;
+    left: 220px;
+}
+.bstartwelve{
+    height: 20px;
+    width: 20px;
+    display: flex;
+    position: absolute;
+    top: 130px;
+    left: 240px;
+}
+.wstarthree{
+    height: 17px;
+    width: 17px;
+    display: flex;
+    position: absolute;
+    top: 132px;
+    left: 260px;
+}
+.facebookliteicon{
+    height: 140px;
+    width: 150px;
+    display: flex;
+    position: absolute;
+    top: 5px;
+
+}
+.namefl{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    display: flex;
+    position: absolute;
+    top: 10px;
+    left: 180px;
+}
+.mpfl{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    display: flex;
+    position: absolute;
+    top: 35px;
+    left: 180px;
+}
+.infofl{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.9em;
+    display: flex;
+    position: absolute;
+    top: 70px;
+    left: 180px;
+}
+.otherappss{
+    background-color: rgb(250, 248, 248);
+    height: 160px;
+    width: 330px;
+    display: flex;
+    position: absolute;
+    top: 640px;
+    left: 980px;
+    box-shadow: 2px 2px 2px 2px rgb(148, 147, 147);
+}
+.whatsappicon{
+    height: 140px;
+    width: 150px;
+    display: flex;
+    position: absolute;
+    top: 5px;
+
+}
+.namewm{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2em;
+    display: flex;
+    position: absolute;
+    top: 10px;
+    left: 160px;
+}
+.mpwm{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    display: flex;
+    position: absolute;
+    top: 35px;
+    left: 180px;
+}
+.infowm{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.9em;
+    display: flex;
+    position: absolute;
+    top: 70px;
+    left: 180px;
+}
+.bstarthirteen{
+    height: 20px;
+    width: 20px;
+    display: flex;
+    position: absolute;
+    top: 130px;
+    left: 180px;
+}
+.bstarfourteen{
+    height: 20px;
+    width: 20px;
+    display: flex;
+    position: absolute;
+    top: 130px;
+    left: 200px;
+}
+.bstarfifteen{
+    height: 20px;
+    width: 20px;
+    display: flex;
+    position: absolute;
+    top: 130px;
+    left: 220px;
+}
+.bstarsixteen{
+    height: 20px;
+    width: 20px;
+    display: flex;
+    position: absolute;
+    top: 130px;
+    left: 240px;
+}
+.wstarfour{
+    height: 17px;
+    width: 17px;
+    display: flex;
+    position: absolute;
+    top: 132px;
+    left: 260px;
+}
+/* mid bottom */
+.paraone{
+    font-size: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    position: absolute;
+    top: 550px;
+    left: 10px;
+}
+.paratwo{
+    font-size: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    position: absolute;
+    top: 620px;
+    left: 10px;
+}
+.parathree{
+    font-size: 1.3em;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    position: absolute;
+    top: 700px;
+    left: 10px;
+}
+.parafour{
+    font-size: 6em;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    position: absolute;
+    top: 750px;
+    left: 145px;
+}
+.bstarseventeen{
+    height: 40px;
+    width: 40px;
+    display: flex;
+    position: absolute;
+    top: 850px;
+    left: 100px;
+}
+.bstareighteen{
+    height: 40px;
+    width: 40px;
+    display: flex;
+    position: absolute;
+    top: 850px;
+    left: 140px;
+}
+.bstarnineteen{
+    height: 40px;
+    width: 40px;
+    display: flex;
+    position: absolute;
+    top: 850px;
+    left: 180px;
+}
+.bstartwenty{
+    height: 40px;
+    width: 40px;
+    display: flex;
+    position: absolute;
+    top: 850px;
+    left: 220px;
+}
+.wstarfive{
+    height: 32px;
+    width: 32px;
+    display: flex;
+    position: absolute;
+    top: 855px;
+    left: 260px;
+}
+.parafive{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+    display: flex;
+    position: absolute;
+    top: 900px;
+    left: 150px;
+}

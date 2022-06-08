@@ -1,0 +1,258 @@
+.top{
+    display: flex;
+    background-color: seagreen;
+    height: 70px;
+}
+.logo{
+    background-color: rgb(0, 255, 110);
+    width: 200px;
+    margin-right: 50px;
+}
+.searchbar{
+    background-color:rgb(0, 255, 110);
+    width: 450px;
+    margin-right: 20px;
+}
+.searchicon{
+    background-color: rgb(0, 255, 110);
+    width: 50px;
+    margin-right: 450px;
+}
+.googleappsicon{
+    background-color: rgb(0, 255, 110);
+    width: 50px;
+    margin-right: 10px;
+}
+.avataricon{
+    background-color: rgb(0, 255, 110);
+    width: 70px;
+}
+.nav{
+    margin-top: 20px;
+    display: flex;
+    background-color: orangered;
+    height: 50px;
+}
+.apps{
+    background-color: rgb(255, 255, 128);
+    width: 200px;
+    margin-right: 50px;
+}
+.categories{
+    background-color: rgb(255, 255, 128);
+    width: 100px;
+    margin-right: 10px;
+}
+.home{
+    background-color: rgb(255, 255, 128);
+    width: 70px;
+    margin-right: 10px;
+}
+.topcharts{
+    background-color: rgb(255, 255, 128);
+    width: 70px;
+    margin-right: 10px;
+}
+.newreleases{
+    background-color: rgb(255, 255, 128);
+    width: 70px;
+    margin-right: 600px;
+}
+.help{
+    background-color: rgb(255, 255, 128);
+    width: 40px;
+    margin-right: 20px;
+}
+.settings{
+    background-color: rgb(255, 255, 128);
+    width: 60px;
+}
+.leftone{
+    background-color: deeppink;
+    width: 200px;
+    height: 240px;
+}
+.myapps{
+    background-color: gainsboro;
+    width: 150px;
+    height: 35px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.shops{
+    background-color: gainsboro;
+    width: 150px;
+    height: 35px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+.games{
+    background-color: gainsboro;
+    width: 150px;
+    height: 30px;
+    margin-left: 50px;
+    margin-bottom: 5px;
+}
+.kids{
+    background-color: gainsboro;
+    width: 150px;
+    height: 30px;
+    margin-left: 50px;
+    margin-bottom: 5px;
+}
+.editors{
+    background-color: gainsboro;
+    width: 150px;
+    height: 30px;
+    margin-left: 50px;
+    margin-bottom: 15px;
+}
+.lefttwo{
+    background-color: chocolate;
+    width: 200px;
+    height: 240px;
+}
+.a{
+    background-color: rgb(150, 250, 217);
+    width: 180px;
+    height: 25px;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+.b{background-color: rgb(150, 250, 217);
+    width: 180px;
+    height: 25px;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 5px;}
+.c{
+    background-color: rgb(150, 250, 217);
+    width: 180px;
+    height: 25px;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+.d{
+    background-color: rgb(150, 250, 217);
+    width: 180px;
+    height: 25px;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+.e{
+    background-color: rgb(150, 250, 217);
+    width: 180px;
+    height: 25px;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+.f{
+    background-color: rgb(150, 250, 217);
+    width: 180px;
+    height: 25px;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+.g{
+    background-color: rgb(150, 250, 217);
+    width: 180px;
+    height: 25px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.middle{
+    background-color: blue;
+    width: 700px;
+    height: 1250px;
+    margin-left: 240px;
+    display: flex;
+    position: absolute;
+    top: 160px;
+}
+.rightone{
+    background-color: rgb(115, 255, 0);
+    height: 50px;
+    width: 70px;
+    margin-left: 1000px;
+    display: flex;
+    position: absolute;
+    top: 220px;
+}
+.righttwo{
+    background-color: rgb(115, 255, 0);
+    height: 50px;
+    width: 80px;
+    margin-left: 1250px;
+    display: flex;
+    position: absolute;
+    top: 220px;
+}
+.rightthree{
+    background-color: rgb(115, 255, 0);
+    height: 150px;
+    width: 330px;
+    margin-left: 1000px;
+    display: flex;
+    position: absolute;
+    top: 290px;
+}
+.rightfour{
+    background-color: rgb(115, 255, 0);
+    height: 150px;
+    width: 330px;
+    margin-left: 1000px;
+    display: flex;
+    position: absolute;
+    top: 450px;
+}
+.rightfive{
+    background-color: rgb(115, 255, 0);
+    height: 150px;
+    width: 330px;
+    margin-left: 1000px;
+    display: flex;
+    position: absolute;
+    top: 610px;
+}
+.rightsix{
+    background-color: rgb(115, 255, 0);
+    height: 150px;
+    width: 330px;
+    margin-left: 1000px;
+    display: flex;
+    position: absolute;
+    top: 770px;
+}
+.rightseven{
+    background-color: rgb(115, 255, 0);
+    height: 150px;
+    width: 330px;
+    margin-left: 1000px;
+    display: flex;
+    position: absolute;
+    top: 930px;
+}
+.righteight{
+    background-color: rgb(115, 255, 0);
+    height: 150px;
+    width: 330px;
+    margin-left: 1000px;
+    display: flex;
+    position: absolute;
+    top: 1090px;
+}
+.rightnine{
+    background-color: rgb(115, 255, 0);
+    height: 150px;
+    width: 330px;
+    margin-left: 1000px;
+    display: flex;
+    position: absolute;
+    top: 1250px;
+}
